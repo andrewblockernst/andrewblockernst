@@ -1,5 +1,5 @@
-# 💫 Sobre mí:
-🍕 Actualmente estoy trabajando como diseñador en @lagepizzas.<br>💻 Me gustaría colaborar en proyectos desde el front-end.<br>🌱 Me encuentro aprendiendo Python.<br>⚡ Me adapto fácilmente a grupos de trabajo.
+# 💫 About me:
+🍕 I am currently working as a designer at @lagepizzas.<br>💻 I would like to collaborate on projects from the front-end.<br>🌱 I am learning Python.<br>⚡ I adapt easily to work groups.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Awrthdrew&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awrthdrew&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top tier repo
 ![](https://github-contributor-stats.vercel.app/api?username=Awrthdrew&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
