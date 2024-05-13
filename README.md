@@ -1,5 +1,5 @@
 # About me:
-🍕 I'm currently working as a designer at @lagepizzas.<br>🖌 I would like to collaborate on projects with front-end.<br>🌱 I am learning Python.<br>⚡ I adapt easily to work groups.<br>💻 Software Engineering 2/5.
+🍕 I'm currently working as a designer at @lagepizzas.<br>🖌 Looking to develop qualities in full-stack projects.<br>🌱 I'm learning Python.<br>⚡ I adapt easily to work groups.<br>💻 Software Engineering 2/5.
 
 
 ## 🌐 Socials:
