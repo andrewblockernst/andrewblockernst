@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Andrew</h1>
+
 # About me
 🍕 I'm currently working as a designer at @lagepizzas.<br>🖌 Looking to develop qualities in full-stack projects.<br>🌱 I'm learning Python.<br>⚡ I adapt easily to work groups.<br>💻 Software Engineering 2/5.
 
