@@ -3,7 +3,7 @@
 </h1>
 
 <p align = "center">
-  "U+2709" Get in touch in: andrewblockernst@gmail.com
+  ✉ Get in touch in: andrewblockernst@gmail.com
 </p>
 
 <p align="center">
