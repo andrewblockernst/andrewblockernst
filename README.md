@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Andrew</h1>
+<h1 align = "center">Hi :D, I'm Andrew</h1>
+<p align = "center">📬 Get in touch in: andrewblockernst@gmail.com</p>
 
-# About me
-🍕 I'm currently working as a designer at @lagepizzas.<br>🖌 Looking to develop qualities in full-stack projects.<br>🌱 I'm learning Python.<br>⚡ I adapt easily to work groups.<br>💻 Software Engineering 2/5.
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Awrthdrew&icon=2&color=4" alt="Visit Count" />
+  </a>
+</p>
 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewblocke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Awrthdrew) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awrthdrew&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Awrthdrew&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
