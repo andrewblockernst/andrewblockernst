@@ -1,6 +1,10 @@
-<h1 align = "center">Hi :D, I'm Andrew!</h1>
-<p align = "center">✉ Get in touch in: andrewblockernst@gmail.com</p>
----
+<h1 align = "center">
+  Hi :D, I'm Andrew!
+</h1>
+
+<p align = "center">
+  "U+2709" Get in touch in: andrewblockernst@gmail.com
+</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
